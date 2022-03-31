@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @quinnbanfield
-- 👀 I’m interested in ... skiing and weightlifting. Also alot of Destiny 2
+- 👀 I’m interested in ... skiing and weightlifting
 - 🌱 I’m currently learning ... machine learning and pandas
 - 💞️ I’m looking to collaborate on ... machine learning projects
 - 📫 How to reach me ...
